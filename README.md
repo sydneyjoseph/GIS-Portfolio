@@ -59,3 +59,8 @@ Yes! I had a bit of previous exposure to decision trees and forest-based classif
 
 *Discussion Post: Can you imagine using the Forest-Based Classification and Aggregation tool in a real-world scenario?*
 Personally, I am not interested in predictive analytics, and doubt that I would use forest-based classification and aggregation in my work in a real-world scenario. However, I have seen predictive tools that may utilize forest-based classification and aggregation in local government. For example, the Allegheny Family Screening Tool utilizes clustering tools (Source (Links to an external site.)). Additionally, I have seen this type of classification tool used precisely in the way it is used in the exercise. While working on political campaigns, we had a voter database that classified voters as reliable voters, turnout voters, and unlikely voters based on a variety of parameters (voter turnout history, geographic residence, age, sex, political affiliation, contact history). Then, at different points in the campaign, we would create targeted contact lists for phone-banking and door-knocking depending on which group we needed to target at that particular time. Our campaign primarily focused on turnout voters. 
+
+
+
+# Final Project: Interstate Abortion-related Travel
+Stay tuned! :)
